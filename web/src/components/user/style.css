@@ -1,0 +1,33 @@
+* {
+  font-family: cursive;
+}
+
+.xo-content {
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  margin: 30px;
+}
+.box-led {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-label {
+  text-align: center;
+}
+
+.box-image {
+  margin: 25px;
+}
+.box-btn {
+  margin-left: 43px;
+}
+
+.btn-logout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}

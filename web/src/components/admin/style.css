@@ -1,0 +1,30 @@
+.box-controll {
+ display: flex;
+ justify-content: flex-end;
+ align-items: center;
+ margin: 15px;
+}
+
+.search-text {
+  max-width: 250px;
+  margin: 5px;
+}
+.icon-search {
+  width: 20px;
+  height: 20px;
+}
+.box-icon {
+  position: absolute;
+  left: 70.2%;
+}
+.box-add-user{
+  margin: 5px;
+}
+.box-log-out{
+  margin: 5px;
+}
+.error-text{
+  position: relative;
+  top: 10px;
+  color: red;
+}

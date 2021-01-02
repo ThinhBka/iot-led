@@ -1,0 +1,48 @@
+.login-form {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  font-family: cursive;
+}
+
+.input-label {
+  position: absolute;
+  top: 0px;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 7px;
+  font-family: cursive;
+  left: 35%;
+}
+
+.input-text {
+  max-width: 300px;
+}
+.input-group {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.btn-submit {
+  position: relative;
+  left: 40.3%;
+  margin-top: 10px;
+}
+
+.xo-loading {
+  position: relative;
+  left: 47%;
+  top: -45px;
+  margin-top: 10px;
+}
+.input-admin {
+  position: absolute;
+  top: 0px;
+  font-size: 14px;
+  text-align: center;
+  font-family: cursive;
+  left: 42%;
+}
+.input-checkbox {
+  left: 42%;
+}
